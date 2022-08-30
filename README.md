@@ -10,6 +10,7 @@
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="type-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" height="30" width="40" alt="git-icon" src="/assets/GitHub.png">
+    <img align="center" height="30" width="40" alt="git-icon" src="/assets/spring.fw.png">
    </div>
       <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: jonnmello@gmail.com">
