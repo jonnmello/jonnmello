@@ -6,7 +6,7 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <br>
-    <img align="left" height="300em" alt="coding-time" src="assets/jon.png">
+    <img align="left" height="300em" alt="coding-time" src="assets/jon.fw.png">
     <h1 align="center">Skills</h1>
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
